@@ -1,6 +1,5 @@
 *
 !.gitignore
-!notebook.ipynb
 !test.py
 !main.py
 !model.py
